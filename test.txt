@@ -1,8 +1,0 @@
-create new branch dev
-this is a test file.
-change file
-first change
-second change
-third change
-create new branch dev
-create local branch dev2
